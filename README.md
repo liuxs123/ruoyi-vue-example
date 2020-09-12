@@ -56,10 +56,13 @@ maven install	#打包
 git clone https://github.com/liuxs123/ruoyi-vue-gl.git
 ```
 3、创建数据库修改对应`yml`文件
+
 <img src="http://m.qpic.cn/psc?/V12PDn0m3Qk5yx/ruAMsa53pVQWN7FLK88i5myG8lToRA0rLBdKfoRQjR2HkJMDdzJEytxadn7vbVX*TZDEO2kgp3d95f.9ruQjFvOcTCjPG32PysakLLxvE1o!/mnull&bo=bAMnAQAAAAADB2s!&rf=photolist&t=5">
+
 4、运行后端项目
 
 `如下说明成功`
+
 <img src="http://m.qpic.cn/psc?/V12PDn0m3Qk5yx/ruAMsa53pVQWN7FLK88i5j7ddtIh1beOBRzDnJgGfNJHSZ3FbE8KU8KPQcxT*9QYx3bDMaTTa1ZKi.PU1x2UGP8P4.KbgPFkgggokMmFgbc!/mnull&bo=hgZgAQAAAAADB8M!&rf=photolist&t=5">
 5、根据前端readme提示运行前端项目`example-ui`
 
