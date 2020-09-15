@@ -10,7 +10,7 @@
 
 高效率开发，使用代码生成器可以一键生成前后端代码
 
-没有相关环境的小伙伴，吃我俩枣子
+没有相关环境的小伙伴，吃我俩枣子(Redis、Idea、JDK8、Nodejs、MySQL、Navicat)
 ## 接口文档
 
 [http://ip:port/swagger-ui.html](http://ip:port/swagger-ui.html)
